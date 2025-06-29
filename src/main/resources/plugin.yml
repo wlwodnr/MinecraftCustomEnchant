@@ -1,0 +1,7 @@
+name: CustomEnchant
+version: 1.0
+main: Main
+api-version: 1.21.6
+  CE:
+    description: 커스텀 인첸트 책을 지급합니다.
+    usage: /CE [플레이어] [인첸트 번호]
